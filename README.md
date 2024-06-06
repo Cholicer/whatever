@@ -1,5 +1,7 @@
-A new Flutter project.
+Нужно было написать подобие онлайн-магазина. Задача была выполнена за один присест (5 часов).
 
-The task was to write an online store application.
+Я уже делал подобный проект, поэтому я знал, что надо делать.
 
-You can see the project [demo](https://github.com/Cholicer/whatever/blob/main/greenwork-demo.mp4).
+Можно посмотреть [демо](https://github.com/Cholicer/whatever/blob/main/greenwork-demo.mp4).
+
+Этот проект не отрашает все мои возможности, поэтому прошу ознакомиться с [этим проектом](https://github.com/Cholicer/new-example-project).
