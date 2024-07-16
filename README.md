@@ -4,4 +4,4 @@
 
 Можно посмотреть [демо](https://github.com/Cholicer/whatever/blob/main/greenwork-demo.mp4).
 
-Этот проект не отрашает все мои возможности, поэтому прошу ознакомиться с [этим проектом](https://github.com/Cholicer/new-example-project).
+Этот проект не отражает все мои возможности, поэтому прошу ознакомиться с [этим проектом](https://github.com/Cholicer/new-example-project).
